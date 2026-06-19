@@ -1,0 +1,8 @@
+# IDE files
+argv.json
+extensions/
+
+# Python virtual environment
+.venv/
+my-first-vibe-app/.venv/
+**/__pycache__/
